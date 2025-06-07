@@ -1,0 +1,12 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-JWT-Extended
+Flask-Cors
+python-dotenv
+mysql-connector-python
+bcrypt
+requests
+Flask-SocketIO  # Added for real-time chat
+eventlet        # Added WebSocket server (alternative: gevent)
+
